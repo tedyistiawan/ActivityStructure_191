@@ -38,3 +38,4 @@ int main()
 	cout << "\numur : " << mhs2.umur;
 
 }
+
